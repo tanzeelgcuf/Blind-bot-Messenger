@@ -22,10 +22,7 @@ BlindChat is currently hosted on [Heroku](https://www.heroku.com/) and uses thei
 
 
 
-1. Clone the repository by opening up your terminal/cmd and running the following command to set up your local repository:
-   ```
-   git clone https://github.com/mayukh18/BlindChat.git/
-   ```
+1. Clone the repository by opening up your terminal/cmd 
 
 2. Create a messenger app on Facebook. Add and configure the webhook and be certain to note down both the *Access Token* and *Verify Token*. 
 
@@ -68,7 +65,7 @@ BlindChat is currently hosted on [Heroku](https://www.heroku.com/) and uses thei
    ```
    
 **Note:**
-- You may find [this memo](https://gist.github.com/mayukh18/2223bc8fc152631205abd7cbf1efdd41/) helpful if you run into problems while setting this up.
+
 - You *may* need to install PostgreSQL on your system if you run into some issues in the above step. Check [this](https://devcenter.heroku.com/articles/heroku-postgresql#set-up-postgres-on-windows) on the official guide.
 
 
